@@ -1,5 +1,6 @@
-We -NeuraForge-The-self-Designing-AI-Ecem-
-A self-improving AI system that designs ,trains,and evolves its own neural network based on environmental feedback -all in real time.
+We -NeuraForge-The-self-Designing-AI-Ecosystem
+
+A 🚀self-improving AI system that designs ,trains,and evolves its own neural network based on environmental feedback -all in real time.
 Instead of a static AI model, Neuraforge acts like a digital organism 
 •It analyzes data you feed it.
 •Designs a new neural architecture optimized for that data.
@@ -7,7 +8,7 @@ Instead of a static AI model, Neuraforge acts like a digital organism
 •Keeps the most efficient version alive and deletes the rest.
         It's like natural selection meets deep learning.
       
-    🚀 Core Features
+    ⚙️Core Features
 1) Autonomous Model Architecting
 •Uses evolution algorithms + reinforcement learning to design new models
 •Generates PyTorn or TensorFlow architectures on the fly.
