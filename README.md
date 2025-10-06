@@ -7,7 +7,7 @@ Instead of a static AI model, Neuraforge acts like a digital organism
 •Keeps the most efficient version alive and deletes the rest.
         It's like natural selection meets deep learning.
       
-    Core Features
+    🚀 Core Features
 1) Autonomous Model Architecting
 •Uses evolution algorithms + reinforcement learning to design new models
 •Generates PyTorn or TensorFlow architectures on the fly.
