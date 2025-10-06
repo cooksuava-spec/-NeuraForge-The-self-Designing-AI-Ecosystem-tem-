@@ -1,4 +1,4 @@
-# -NeuraForge-The-self-Designing-AI-Ecosystem-tem-
+We -NeuraForge-The-self-Designing-AI-Ecem-
 A self-improving AI system that designs ,trains,and evolves its own neural network based on environmental feedback -all in real time.
 Instead of a static AI model, Neuraforge acts like a digital organism 
 •It analyzes data you feed it.
